@@ -25,5 +25,3 @@ Accurate sales predictions will allow Big Mart to:
 - **Target**: Item Outlet Sales (the total sales of each product in each store).
 
 ---
-
-Would you like more help in further detailing the approach or defining your model’s evaluation metrics?

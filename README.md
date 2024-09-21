@@ -24,4 +24,5 @@ Accurate sales predictions will allow Big Mart to:
 - **Store features**: Outlet Identifier, Outlet Size, Outlet Location Type, Outlet Type (supermarket or grocery store), Outlet Establishment Year.
 - **Target**: Item Outlet Sales (the total sales of each product in each store).
 
----
+
+<img scr="spm_da_approach.drawio.png"></img>
